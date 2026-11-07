@@ -1,0 +1,6 @@
+{
+  "name": "PiashAgent",
+  "description": "Your Personal AI Development Agent — native Android AI coding workspace with multi-provider support, tool registry, skills manager, MCP client, multi-agent orchestration, and code editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

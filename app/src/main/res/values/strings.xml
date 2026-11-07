@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PiashAgent</string>
+    <string name="app_tagline">Your Personal AI Development Agent</string>
+    <string name="nav_workspace">Chat</string>
+    <string name="nav_project">Project</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_agents">Agents</string>
+    <string name="nav_skills">Skills</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_new_chat">New Session</string>
+    <string name="action_send">Send Prompt</string>
+    <string name="action_stop">Stop Agent</string>
+    <string name="action_attach_file">Import File (SAF)</string>
+    <string name="action_branch_chat">Branch Conversation</string>
+    <string name="action_export_chat">Export Session</string>
+    <string name="placeholder_prompt">Ask PiashAgent or type /help for commands…</string>
+    <string name="placeholder_search">Search conversations, files, or tools…</string>
+    <string name="status_ready">Agent Ready</string>
+    <string name="status_thinking">Analyzing &amp; Planning…</string>
+    <string name="status_executing_tool">Executing Tool…</string>
+    <string name="status_awaiting_permission">Awaiting Permission Approval</string>
+    <string name="security_sandbox_notice">Native Android Sandbox Active — Zero Root / Zero Termux</string>
+</resources>
